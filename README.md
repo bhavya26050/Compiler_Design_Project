@@ -15,7 +15,13 @@ A comprehensive project focused on building various compiler design tools, inclu
 ---
 
 ## 📂 Project Structure
-├── Compiler_Design_Project/ │ ├── src/ # Source files for each compiler component │ ├── tests/ # Test cases for various components │ ├── README.md # Project documentation │ ├── requirements.txt # Python dependencies (if applicable) │ └── LICENSE # Project license
+├── Compiler_Design_Project/ │ 
+├── src/ # Source files for each compiler component │ 
+├── tests/ # Test cases for various components │ 
+├── README.md # Project documentation │ 
+├── requirements.txt 
+# Python dependencies (if applicable) 
+│ └── LICENSE # Project license
 
 ---
 
